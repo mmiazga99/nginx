@@ -1,4 +1,4 @@
-# nginx
+# nginx.conf
 Hi, this is my nginx.conf file, which was made with the help of:
 - https://www.udemy.com/course/the-perfect-nginx-server-ubuntu-edition/
 - https://www.udemy.com/course/nginx-fundamentals/
