@@ -5,5 +5,5 @@ Hi, this is my nginx.conf file, which was made with the help of:
 - https://www.nginx.com/resources/wiki/start/topics/recipes/wordpress/
 - just googling a lot of stuff.
 
-I will be updating it, if I will find out something else worth implementing.
+I will be updating it, if I find out something else worth implementing.
 Feel free to use :D
